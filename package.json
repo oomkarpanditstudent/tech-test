@@ -1,0 +1,12 @@
+{
+  "homepage": "https://ankitgfk.github.io/sort-interview-exercise/",
+  "name": "interview-exercise",
+  "version": "1.0.0",
+  "description": "Apps and test for an interview pairing exercise",
+  "main": "index.js",
+  "scripts": {
+    "appstart": "cd frontend && npm install && npm start"
+  },
+  "author": "",
+  "license": "ISC"
+}
